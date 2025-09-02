@@ -20,6 +20,8 @@ BATCH - AG14
 
 
 OUTPUT
+
+
 <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/86db7ea5-cb27-4962-8d3a-1e688148805b" />
 
 
