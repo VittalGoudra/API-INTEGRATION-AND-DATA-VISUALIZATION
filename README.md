@@ -76,4 +76,4 @@ FEATURES:
 
 ✅ Historical/Comparative Analysis (optional): Visualize data trends over time or compare multiple cities.
 
-✅ User-Friendly Output: Provides both textual and graphical representation of data
+✅ User-Friendly Output: Provides both textual and graphical representation of data.
